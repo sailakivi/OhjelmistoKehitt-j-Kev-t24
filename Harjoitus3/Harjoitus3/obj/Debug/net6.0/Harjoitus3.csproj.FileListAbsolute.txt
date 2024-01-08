@@ -1,0 +1,15 @@
+C:\Users\esko.sailakivi\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus3\Harjoitus3\bin\Debug\net6.0\Harjoitus3.exe
+C:\Users\esko.sailakivi\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus3\Harjoitus3\bin\Debug\net6.0\Harjoitus3.deps.json
+C:\Users\esko.sailakivi\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus3\Harjoitus3\bin\Debug\net6.0\Harjoitus3.runtimeconfig.json
+C:\Users\esko.sailakivi\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus3\Harjoitus3\bin\Debug\net6.0\Harjoitus3.dll
+C:\Users\esko.sailakivi\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus3\Harjoitus3\bin\Debug\net6.0\Harjoitus3.pdb
+C:\Users\esko.sailakivi\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus3\Harjoitus3\obj\Debug\net6.0\Harjoitus3.csproj.AssemblyReference.cache
+C:\Users\esko.sailakivi\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus3\Harjoitus3\obj\Debug\net6.0\Harjoitus3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esko.sailakivi\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus3\Harjoitus3\obj\Debug\net6.0\Harjoitus3.AssemblyInfoInputs.cache
+C:\Users\esko.sailakivi\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus3\Harjoitus3\obj\Debug\net6.0\Harjoitus3.AssemblyInfo.cs
+C:\Users\esko.sailakivi\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus3\Harjoitus3\obj\Debug\net6.0\Harjoitus3.csproj.CoreCompileInputs.cache
+C:\Users\esko.sailakivi\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus3\Harjoitus3\obj\Debug\net6.0\Harjoitus3.dll
+C:\Users\esko.sailakivi\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus3\Harjoitus3\obj\Debug\net6.0\refint\Harjoitus3.dll
+C:\Users\esko.sailakivi\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus3\Harjoitus3\obj\Debug\net6.0\Harjoitus3.pdb
+C:\Users\esko.sailakivi\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus3\Harjoitus3\obj\Debug\net6.0\Harjoitus3.genruntimeconfig.cache
+C:\Users\esko.sailakivi\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus3\Harjoitus3\obj\Debug\net6.0\ref\Harjoitus3.dll
