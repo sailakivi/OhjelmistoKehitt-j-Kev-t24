@@ -2,12 +2,12 @@
 
 
 Console.Write("Anna ikäsi:");
-int ika = int.Parse(Console.ReadLine());
-if (ika < 15)
+int ikä = int.Parse(Console.ReadLine());
+if (ikä < 15)
 {
     Console.Write("Saat ajaa polkupyörää");
 }
-else if (ika < 18)
+else if (ikä < 18)
 {
     Console.Write("Saat ajaa mopoa");
 }
