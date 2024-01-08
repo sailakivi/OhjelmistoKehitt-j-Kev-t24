@@ -7,7 +7,7 @@ Console.Write("Anna 2. numero:");
 string toka = Console.ReadLine();
 
 int tokaLuku = Int32.Parse(toka);
-var summa = tokaLuku x / y;
+int summa = tokaLuku * 5;
 
 Console.WriteLine("x = " + summa);
 
