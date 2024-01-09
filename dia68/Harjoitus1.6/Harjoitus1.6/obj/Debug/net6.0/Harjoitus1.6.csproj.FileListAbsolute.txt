@@ -1,0 +1,15 @@
+C:\Users\saila\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus1.6\Harjoitus1.6\bin\Debug\net6.0\Harjoitus1.6.exe
+C:\Users\saila\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus1.6\Harjoitus1.6\bin\Debug\net6.0\Harjoitus1.6.deps.json
+C:\Users\saila\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus1.6\Harjoitus1.6\bin\Debug\net6.0\Harjoitus1.6.runtimeconfig.json
+C:\Users\saila\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus1.6\Harjoitus1.6\bin\Debug\net6.0\Harjoitus1.6.dll
+C:\Users\saila\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus1.6\Harjoitus1.6\bin\Debug\net6.0\Harjoitus1.6.pdb
+C:\Users\saila\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus1.6\Harjoitus1.6\obj\Debug\net6.0\Harjoitus1.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saila\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus1.6\Harjoitus1.6\obj\Debug\net6.0\Harjoitus1.6.AssemblyInfoInputs.cache
+C:\Users\saila\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus1.6\Harjoitus1.6\obj\Debug\net6.0\Harjoitus1.6.AssemblyInfo.cs
+C:\Users\saila\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus1.6\Harjoitus1.6\obj\Debug\net6.0\Harjoitus1.6.csproj.CoreCompileInputs.cache
+C:\Users\saila\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus1.6\Harjoitus1.6\obj\Debug\net6.0\Harjoitus1.6.sourcelink.json
+C:\Users\saila\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus1.6\Harjoitus1.6\obj\Debug\net6.0\Harjoitus1.6.dll
+C:\Users\saila\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus1.6\Harjoitus1.6\obj\Debug\net6.0\refint\Harjoitus1.6.dll
+C:\Users\saila\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus1.6\Harjoitus1.6\obj\Debug\net6.0\Harjoitus1.6.pdb
+C:\Users\saila\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus1.6\Harjoitus1.6\obj\Debug\net6.0\Harjoitus1.6.genruntimeconfig.cache
+C:\Users\saila\source\repos\OhjelmistoKehitt-j-Kev-t24\Harjoitus1.6\Harjoitus1.6\obj\Debug\net6.0\ref\Harjoitus1.6.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarjoitusOikea5", "HarjoitusOikea5\HarjoitusOikea5.csproj", "{55EA7F67-4989-437F-A757-D8F5447DBEEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55EA7F67-4989-437F-A757-D8F5447DBEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EA7F67-4989-437F-A757-D8F5447DBEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EA7F67-4989-437F-A757-D8F5447DBEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EA7F67-4989-437F-A757-D8F5447DBEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {074993CD-FF00-4430-8604-F609D9BF453A}
+	EndGlobalSection
+EndGlobal
